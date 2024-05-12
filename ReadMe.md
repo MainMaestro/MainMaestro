@@ -3,7 +3,7 @@
 Начинающий Frontend-разработчик.
 
 
-<h2 style="text-align: center;">На данный момент знаю более или менее:</h2>
+<h2 style="text-align: center;">Языки:</h2>
 
 - HTML/CSS/JS
 - C#
