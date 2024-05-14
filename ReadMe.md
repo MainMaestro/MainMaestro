@@ -8,6 +8,7 @@
 - HTML/CSS/JS
 - C#
 - SQL
+- JavaScript
 
 <h2 style="text-align: center;">Мои проекты:</h2>
 
